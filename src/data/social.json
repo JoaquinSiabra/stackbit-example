@@ -13,12 +13,6 @@
       "url": "https://www.instagram.com/"
     },
     {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
-    },
-    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
